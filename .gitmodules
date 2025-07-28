@@ -4,3 +4,6 @@
 [submodule "packages/payments-processor"]
 	path = packages/payments-processor
 	url = https://github.com/eric218110/payment-processor.git
+[submodule "packages/payments-client"]
+	path = packages/payments-client
+	url = https://github.com/eric218110/payment-client.git
