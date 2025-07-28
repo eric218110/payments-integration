@@ -10,14 +10,12 @@ Este projeto é composto por três aplicações principais:
 
 -  **payments-client** (Frontend)
 
+Além disso, foi utilizado **PostgreSQL** e **RabbitMQ**, ambos executados via Docker.
+
 ---
 ## Fluxo principal:
 
 ![Fluxo Principal](./docs/fluxo-principal.png)
-
-
-Além disso, foi utilizado **PostgreSQL** e **RabbitMQ**, ambos executados via Docker.
-
 
 ---
 
